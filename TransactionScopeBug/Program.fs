@@ -1,6 +1,4 @@
-﻿// Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
-
-open System.Collections.Generic
+﻿open System.Collections.Generic
 open System.Transactions
 open Plough.ControlFlow
 open FSharp.Control.Tasks
